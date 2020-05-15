@@ -1,4 +1,4 @@
-[1589515283, 1, 0, {
+[1589518351, 1, 0, {
 	"event_id": 1008,
 	"minimum_member": 16,
 	"current_opponent_info": {
@@ -31,15 +31,15 @@
 		"lose_count": 2,
 		"draw_count": 0,
 		"total_guild_point": 6074,
-		"guild_point_a_day": 1060,
-		"active_member_count_a_day": 23,
+		"guild_point_a_day": 1070,
+		"active_member_count_a_day": 25,
 		"member_count": 29,
 		"win_match_num_a_day": 26,
-		"lose_match_num_a_day": 9,
+		"lose_match_num_a_day": 11,
 		"draw_match_num_a_day": 3,
-		"total_match_num_a_day": 38
+		"total_match_num_a_day": 40
 	},
-	"gvg_ap": 3,
+	"gvg_ap": 2,
 	"wave_id": 7,
 	"current_phase": 2,
 	"owner_guild_state": 1,
@@ -322,11 +322,11 @@
 			"exp": 10000000
 		},
 		"total_parameter": 874157,
-		"gvg_point": 0,
+		"gvg_point": 5,
 		"life": 3,
 		"is_matchable": true,
-		"gvg_results": [4, 4, 4],
-		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}, {
 		"is_dummy": false,
 		"user_id": 416792076,
@@ -714,11 +714,11 @@
 			"exp": 10000000
 		},
 		"total_parameter": 922028,
-		"gvg_point": 0,
+		"gvg_point": 5,
 		"life": 3,
 		"is_matchable": true,
-		"gvg_results": [4, 4, 4],
-		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}, {
 		"is_dummy": false,
 		"user_id": 826372671,
@@ -1646,6 +1646,22 @@
 		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}],
 	"match_logs": [{
+		"challenge_user_id": 793438761,
+		"challenge_team_name": "Dragons",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC Castag",
+		"fightin_team_score": 9,
+		"result": 2,
+		"end_time": 1589517756
+	}, {
+		"challenge_user_id": 361334851,
+		"challenge_team_name": "BuffalooO ",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC Castag",
+		"fightin_team_score": 8,
+		"result": 2,
+		"end_time": 1589516297
+	}, {
 		"challenge_user_id": 358960356,
 		"challenge_team_name": "Seigaku",
 		"challenge_team_score": 0,
@@ -2276,4 +2292,4 @@
 	},
 	"final_guild_rank": null,
 	"daily_reward": null
-}, "27423e27085616fe0e9bff9f3856a0bb2654cec4"]
+}, "76b8d6be8c7aaf563a6c6e8e33d1ae61ba13f8ea"]
