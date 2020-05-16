@@ -1,4 +1,4 @@
-[1589604383, 1, 0, {
+[1589604713, 1, 0, {
 	"event_id": 1008,
 	"minimum_member": 16,
 	"current_opponent_info": {
@@ -12,13 +12,13 @@
 		"lose_count": 2,
 		"draw_count": 0,
 		"total_guild_point": 7140,
-		"guild_point_a_day": 377,
+		"guild_point_a_day": 408,
 		"active_member_count_a_day": 12,
 		"member_count": 26,
 		"win_match_num_a_day": 4,
 		"lose_match_num_a_day": 12,
-		"draw_match_num_a_day": 12,
-		"total_match_num_a_day": 28
+		"draw_match_num_a_day": 14,
+		"total_match_num_a_day": 30
 	},
 	"owner_info": {
 		"is_dummy": false,
@@ -31,13 +31,13 @@
 		"lose_count": 2,
 		"draw_count": 0,
 		"total_guild_point": 7144,
-		"guild_point_a_day": 1198,
-		"active_member_count_a_day": 27,
+		"guild_point_a_day": 1213,
+		"active_member_count_a_day": 28,
 		"member_count": 29,
 		"win_match_num_a_day": 29,
 		"lose_match_num_a_day": 9,
-		"draw_match_num_a_day": 6,
-		"total_match_num_a_day": 44
+		"draw_match_num_a_day": 7,
+		"total_match_num_a_day": 45
 	},
 	"gvg_ap": 2,
 	"wave_id": 8,
@@ -490,11 +490,11 @@
 			"exp": 10000000
 		},
 		"total_parameter": 933840,
-		"gvg_point": 0,
+		"gvg_point": 15,
 		"life": 3,
 		"is_matchable": true,
-		"gvg_results": [4, 4, 4],
-		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+		"gvg_results": [3, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [1, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}, {
 		"is_dummy": false,
 		"user_id": 692739693,
@@ -688,7 +688,7 @@
 		"total_parameter": 793030,
 		"gvg_point": 15,
 		"life": 2,
-		"is_matchable": false,
+		"is_matchable": true,
 		"gvg_results": [3, 4, 4],
 		"gvg_point_summary": [1, [0, 30], 2, [1, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}, {
@@ -1193,7 +1193,7 @@
 		"total_parameter": 730049,
 		"gvg_point": 0,
 		"life": 1,
-		"is_matchable": false,
+		"is_matchable": true,
 		"gvg_results": [4, 4, 4],
 		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}, {
@@ -1331,11 +1331,11 @@
 			"exp": 10000000
 		},
 		"total_parameter": 909134,
-		"gvg_point": 15,
+		"gvg_point": 46,
 		"life": 3,
 		"is_matchable": true,
-		"gvg_results": [3, 4, 4],
-		"gvg_point_summary": [1, [0, 30], 2, [1, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+		"gvg_results": [3, 3, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [3, 15], 3, [0, 5], 4, [1, 1], 5, [0, 1], 6, [0, 1]]
 	}, {
 		"is_dummy": false,
 		"user_id": 687905996,
@@ -1590,6 +1590,30 @@
 		"gvg_point_summary": [1, [0, 30], 2, [1, 15], 3, [2, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
 	}],
 	"match_logs": [{
+		"challenge_user_id": 681327236,
+		"challenge_team_name": "\u9b54\u9b3c",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 1,
+		"result": 3,
+		"end_time": 1589604598
+	}, {
+		"challenge_user_id": 681327236,
+		"challenge_team_name": "\u9b54\u9b3c",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589604459
+	}, {
+		"challenge_user_id": 615224546,
+		"challenge_team_name": "FC.World",
+		"challenge_team_score": 0,
+		"fightin_team_name": "\u99ac\u982d\u570d\u5357\u845b\u5c0f\u5b78\u4e0b\u5348\u6821",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589604427
+	}, {
 		"challenge_user_id": 681327236,
 		"challenge_team_name": "\u9b54\u9b3c",
 		"challenge_team_score": 0,
@@ -2212,4 +2236,4 @@
 	},
 	"final_guild_rank": null,
 	"daily_reward": null
-}, "f67c889f9ceee211f0552052ed180af0de91c190"]
+}, "77b79e67c51d970051829a6e4e909f6baf64c6dd"]
