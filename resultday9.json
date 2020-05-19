@@ -1,0 +1,2423 @@
+[1589862437, 1, 0, {
+	"event_id": 1008,
+	"minimum_member": 16,
+	"current_opponent_info": {
+		"is_dummy": false,
+		"id": 93781,
+		"name": "Reback",
+		"rank": 577,
+		"captain_card_master_id": 28100143,
+		"winning_point": 21,
+		"win_count": 7,
+		"lose_count": 3,
+		"draw_count": 0,
+		"total_guild_point": 11358,
+		"guild_point_a_day": 772,
+		"active_member_count_a_day": 13,
+		"member_count": 24,
+		"win_match_num_a_day": 12,
+		"lose_match_num_a_day": 4,
+		"draw_match_num_a_day": 23,
+		"total_match_num_a_day": 39
+	},
+	"owner_info": {
+		"is_dummy": false,
+		"id": 3656,
+		"name": "Asylum.Fr",
+		"rank": 578,
+		"captain_card_master_id": 13100242,
+		"winning_point": 21,
+		"win_count": 7,
+		"lose_count": 3,
+		"draw_count": 0,
+		"total_guild_point": 11346,
+		"guild_point_a_day": 1639,
+		"active_member_count_a_day": 29,
+		"member_count": 29,
+		"win_match_num_a_day": 39,
+		"lose_match_num_a_day": 10,
+		"draw_match_num_a_day": 17,
+		"total_match_num_a_day": 66
+	},
+	"gvg_ap": 2,
+	"wave_id": 11,
+	"current_phase": 2,
+	"owner_guild_state": 1,
+	"lost_by_abstention": 0,
+	"next_event_remaining_days": null,
+	"next_aggregation_time": 1589864400,
+	"event_end_time": 1590123600,
+	"own_guild_members": [{
+		"is_dummy": false,
+		"user_id": 110253102,
+		"user_name": "Santana33",
+		"user_rank": 194,
+		"team_name": "Devil Bats",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 7,
+			"background_color": "ff0000",
+			"upper_id": 29,
+			"upper_color": "f5f5f5",
+			"middle_id": 38,
+			"middle_color": "ffdc00",
+			"lower_id": 56,
+			"lower_color": "ffdc00",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 862468,
+		"gvg_point": 75,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 2],
+		"gvg_point_summary": [1, [2, 30], 2, [0, 15], 3, [1, 5], 4, [4, 1], 5, [4, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 119664768,
+		"user_name": "Kamui",
+		"user_rank": 197,
+		"team_name": "newteam",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "00bfff",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 35,
+			"middle_color": "fafafa",
+			"lower_id": 55,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 12800162,
+			"exp": 10000000
+		},
+		"total_parameter": 902733,
+		"gvg_point": 5,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 204189281,
+		"user_name": "Actarus",
+		"user_rank": 175,
+		"team_name": "Actarus 62",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 14,
+			"background_color": "fafafa",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "fafafa",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 1100222,
+			"exp": 10000000
+		},
+		"total_parameter": 940737,
+		"gvg_point": 91,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 3],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [7, 1], 5, [7, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 212932050,
+		"user_name": "Guit",
+		"user_rank": 195,
+		"team_name": "FC Nemo",
+		"badge_id": 9012016,
+		"emblem": {
+			"background_id": 10,
+			"background_color": "f5f5f5",
+			"upper_id": 24,
+			"upper_color": "3cb371",
+			"middle_id": 34,
+			"middle_color": "3cb371",
+			"lower_id": 49,
+			"lower_color": "3cb371",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100282,
+			"exp": 10000000
+		},
+		"total_parameter": 908131,
+		"gvg_point": 101,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 1],
+		"gvg_point_summary": [1, [3, 30], 2, [0, 15], 3, [0, 5], 4, [4, 1], 5, [4, 1], 6, [3, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 248026182,
+		"user_name": "SuperHS",
+		"user_rank": 140,
+		"team_name": "FC.SHS",
+		"badge_id": 2119103,
+		"emblem": {
+			"background_id": 5,
+			"background_color": "1e90ff",
+			"upper_id": 18,
+			"upper_color": "dcdcdc",
+			"middle_id": 38,
+			"middle_color": "dc143c",
+			"lower_id": 64,
+			"lower_color": "dcdcdc",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 38800173,
+			"exp": 10000000
+		},
+		"total_parameter": 928413,
+		"gvg_point": 83,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 1, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [3, 1], 5, [3, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 275866897,
+		"user_name": "Roberto",
+		"user_rank": 197,
+		"team_name": "Paname",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 12,
+			"background_color": "000080",
+			"upper_id": 30,
+			"upper_color": "fafafa",
+			"middle_id": 46,
+			"middle_color": "ff0000",
+			"lower_id": 51,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 12300272,
+			"exp": 10000000
+		},
+		"total_parameter": 810971,
+		"gvg_point": 105,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 1],
+		"gvg_point_summary": [1, [3, 30], 2, [0, 15], 3, [0, 5], 4, [6, 1], 5, [6, 1], 6, [3, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 321630616,
+		"user_name": "Jean Fonce",
+		"user_rank": 129,
+		"team_name": "Jean Fonce",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 14,
+			"background_color": "0000cd",
+			"upper_id": 30,
+			"upper_color": "fff352",
+			"middle_id": 44,
+			"middle_color": "ffdc00",
+			"lower_id": 49,
+			"lower_color": "ffdc00",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 4900132,
+			"exp": 10000000
+		},
+		"total_parameter": 921783,
+		"gvg_point": 5,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 337233130,
+		"user_name": "Malcou",
+		"user_rank": 162,
+		"team_name": "Malcou",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 14,
+			"background_color": "000080",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 47,
+			"middle_color": "fafafa",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 16000103,
+			"exp": 10000000
+		},
+		"total_parameter": 863878,
+		"gvg_point": 83,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 1, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [3, 1], 5, [3, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 358960356,
+		"user_name": "Tezuka",
+		"user_rank": 183,
+		"team_name": "Seigaku",
+		"badge_id": 2,
+		"emblem": {
+			"background_id": 12,
+			"background_color": "0000cd",
+			"upper_id": 30,
+			"upper_color": "dc143c",
+			"middle_id": 39,
+			"middle_color": "ffdc00",
+			"lower_id": 51,
+			"lower_color": "dc143c",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 39200093,
+			"exp": 10000000
+		},
+		"total_parameter": 902784,
+		"gvg_point": 5,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 361334851,
+		"user_name": "Maylin",
+		"user_rank": 211,
+		"team_name": "BuffalooO ",
+		"badge_id": 2119101,
+		"emblem": {
+			"background_id": 13,
+			"background_color": "fafafa",
+			"upper_id": 30,
+			"upper_color": "fafafa",
+			"middle_id": 39,
+			"middle_color": "87cefa",
+			"lower_id": 51,
+			"lower_color": "f5f5f5",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 874157,
+		"gvg_point": 5,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 416792076,
+		"user_name": "jerem",
+		"user_rank": 170,
+		"team_name": "FC.SouD",
+		"badge_id": 8011001,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "dc143c",
+			"upper_id": 17,
+			"upper_color": "f5f5f5",
+			"middle_id": 33,
+			"middle_color": "2e8b57",
+			"lower_id": 49,
+			"lower_color": "f5f5f5",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 60600013,
+			"exp": 10000000
+		},
+		"total_parameter": 908892,
+		"gvg_point": 81,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 3, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [2, 1], 5, [2, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 421590829,
+		"user_name": "Joinard",
+		"user_rank": 118,
+		"team_name": "FC Joinard",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 13,
+			"background_color": "fafafa",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 35,
+			"middle_color": "ff0000",
+			"lower_id": 63,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 12300272,
+			"exp": 10000000
+		},
+		"total_parameter": 866753,
+		"gvg_point": 83,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 3],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [3, 1], 5, [3, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 526716604,
+		"user_name": "Julien",
+		"user_rank": 150,
+		"team_name": "RCL",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 2,
+			"background_color": "dc143c",
+			"upper_id": 32,
+			"upper_color": "ffdc00",
+			"middle_id": 48,
+			"middle_color": "ffdc00",
+			"lower_id": 60,
+			"lower_color": "ffdc00",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100252,
+			"exp": 10000000
+		},
+		"total_parameter": 924293,
+		"gvg_point": 87,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 3, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [5, 1], 5, [5, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 570342042,
+		"user_name": "Majin",
+		"user_rank": 131,
+		"team_name": "BV 09",
+		"badge_id": 2119105,
+		"emblem": {
+			"background_id": 10,
+			"background_color": "fafafa",
+			"upper_id": 22,
+			"upper_color": "ffdc00",
+			"middle_id": 40,
+			"middle_color": "ffdc00",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 6500112,
+			"exp": 10000000
+		},
+		"total_parameter": 854252,
+		"gvg_point": 26,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [2, 3, 2],
+		"gvg_point_summary": [1, [0, 30], 2, [1, 15], 3, [2, 5], 4, [1, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 610976173,
+		"user_name": "Styventilo",
+		"user_rank": 229,
+		"team_name": "Chelsea69",
+		"badge_id": 9012013,
+		"emblem": {
+			"background_id": 13,
+			"background_color": "0000ff",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 33,
+			"middle_color": "fafafa",
+			"lower_id": 63,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 20700232,
+			"exp": 10000000
+		},
+		"total_parameter": 942714,
+		"gvg_point": 33,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 4, 4],
+		"gvg_point_summary": [1, [1, 30], 2, [0, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 615224546,
+		"user_name": "jessie",
+		"user_rank": 197,
+		"team_name": "FC.World",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "040404",
+			"upper_id": 27,
+			"upper_color": "fafafa",
+			"middle_id": 48,
+			"middle_color": "fafafa",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100272,
+			"exp": 10000000
+		},
+		"total_parameter": 933840,
+		"gvg_point": 33,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 4, 4],
+		"gvg_point_summary": [1, [1, 30], 2, [0, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 692739693,
+		"user_name": "Dragon",
+		"user_rank": 132,
+		"team_name": "FC.Dragon",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 10,
+			"background_color": "ff0000",
+			"upper_id": 19,
+			"upper_color": null,
+			"middle_id": 45,
+			"middle_color": "fafafa",
+			"lower_id": 56,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 928324,
+		"gvg_point": 82,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 3],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [4, 1], 5, [2, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 718822219,
+		"user_name": "Tetsuya",
+		"user_rank": 124,
+		"team_name": "oOShadowOo",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 3,
+			"background_color": "040404",
+			"upper_id": 27,
+			"upper_color": "ff0000",
+			"middle_id": 48,
+			"middle_color": "ffff00",
+			"lower_id": 51,
+			"lower_color": "ff0000",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 27600013,
+			"exp": 10000000
+		},
+		"total_parameter": 902859,
+		"gvg_point": 87,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 3, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [5, 1], 5, [5, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 745731956,
+		"user_name": "\u0416.\u0416",
+		"user_rank": 229,
+		"team_name": "\u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+		"badge_id": 2119101,
+		"emblem": {
+			"background_id": 14,
+			"background_color": "006400",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "808080",
+			"lower_id": 56,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 20500152,
+			"exp": 10000000
+		},
+		"total_parameter": 949662,
+		"gvg_point": 99,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 1],
+		"gvg_point_summary": [1, [3, 30], 2, [0, 15], 3, [0, 5], 4, [5, 1], 5, [3, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 747033863,
+		"user_name": "ST27",
+		"user_rank": 215,
+		"team_name": "STFC",
+		"badge_id": 3023111,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "ff0000",
+			"upper_id": 18,
+			"upper_color": "ffdc00",
+			"middle_id": 33,
+			"middle_color": "228b22",
+			"lower_id": 56,
+			"lower_color": "ffdc00",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 910122,
+		"gvg_point": 81,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 3],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [2, 1], 5, [2, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 761211694,
+		"user_name": "luffy",
+		"user_rank": 204,
+		"team_name": "mugiwara",
+		"badge_id": 2119101,
+		"emblem": {
+			"background_id": 2,
+			"background_color": "ff6347",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 48,
+			"middle_color": "dcdcdc",
+			"lower_id": 63,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100282,
+			"exp": 10000000
+		},
+		"total_parameter": 862243,
+		"gvg_point": 63,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 3, 1],
+		"gvg_point_summary": [1, [1, 30], 2, [2, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 781966103,
+		"user_name": "Smoothy",
+		"user_rank": 192,
+		"team_name": "Basic Team",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "ff0000",
+			"upper_id": 30,
+			"upper_color": "dcdcdc",
+			"middle_id": 41,
+			"middle_color": "fafafa",
+			"lower_id": 61,
+			"lower_color": "dcdcdc",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 20400133,
+			"exp": 10000000
+		},
+		"total_parameter": 951901,
+		"gvg_point": 33,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 4, 4],
+		"gvg_point_summary": [1, [1, 30], 2, [0, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 792211909,
+		"user_name": "Exilor",
+		"user_rank": 228,
+		"team_name": "RC Exilor",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 3,
+			"background_color": "1e90ff",
+			"upper_id": 17,
+			"upper_color": "fafafa",
+			"middle_id": 38,
+			"middle_color": "fff352",
+			"lower_id": 51,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 25200043,
+			"exp": 10000000
+		},
+		"total_parameter": 793030,
+		"gvg_point": 48,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [1, 3, 4],
+		"gvg_point_summary": [1, [1, 30], 2, [1, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 793438761,
+		"user_name": "Drako",
+		"user_rank": 229,
+		"team_name": "Dragons",
+		"badge_id": 3020214,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "ffff00",
+			"upper_id": 26,
+			"upper_color": "1e90ff",
+			"middle_id": 38,
+			"middle_color": "1e90ff",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 12300272,
+			"exp": 10000000
+		},
+		"total_parameter": 922028,
+		"gvg_point": 5,
+		"life": 1,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 826372671,
+		"user_name": "Sekay ",
+		"user_rank": 129,
+		"team_name": "Freedom",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 14,
+			"background_color": "1e90ff",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "fafafa",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100272,
+			"exp": 10000000
+		},
+		"total_parameter": 914264,
+		"gvg_point": 63,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 1, 3],
+		"gvg_point_summary": [1, [1, 30], 2, [2, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 939010663,
+		"user_name": "Chris",
+		"user_rank": 210,
+		"team_name": "FC.Delta",
+		"badge_id": 2,
+		"emblem": {
+			"background_id": 12,
+			"background_color": "0000ff",
+			"upper_id": 21,
+			"upper_color": "ffff00",
+			"middle_id": 39,
+			"middle_color": "fafafa",
+			"lower_id": 64,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 39100162,
+			"exp": 10000000
+		},
+		"total_parameter": 915187,
+		"gvg_point": 5,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 952038547,
+		"user_name": "Morgan",
+		"user_rank": 167,
+		"team_name": "NEW TEAM",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 6,
+			"background_color": "dc143c",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "dc143c",
+			"lower_id": 62,
+			"lower_color": "ffdc00",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100023,
+			"exp": 10000000
+		},
+		"total_parameter": 913958,
+		"gvg_point": 5,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [2, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 962466405,
+		"user_name": "RedPiet",
+		"user_rank": 226,
+		"team_name": "Redteam",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 11,
+			"background_color": "ff0000",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 43,
+			"middle_color": "fafafa",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 10900063,
+			"exp": 10000000
+		},
+		"total_parameter": 730296,
+		"gvg_point": 103,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [1, 1, 1],
+		"gvg_point_summary": [1, [3, 30], 2, [0, 15], 3, [0, 5], 4, [5, 1], 5, [5, 1], 6, [3, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 993566897,
+		"user_name": "Nespoli Fr",
+		"user_rank": 226,
+		"team_name": "FC Nespoli",
+		"badge_id": 9012015,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "00bfff",
+			"upper_id": 27,
+			"upper_color": "fafafa",
+			"middle_id": 46,
+			"middle_color": "fafafa",
+			"lower_id": 63,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 12300272,
+			"exp": 10000000
+		},
+		"total_parameter": 919252,
+		"gvg_point": 64,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 1, 3],
+		"gvg_point_summary": [1, [1, 30], 2, [2, 15], 3, [0, 5], 4, [3, 1], 5, [1, 1], 6, [0, 1]]
+	}],
+	"opponent_guild_members": [{
+		"is_dummy": false,
+		"user_id": 119649757,
+		"user_name": "Chi\u00f3ni",
+		"user_rank": 224,
+		"team_name": "Icicle",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "f5f5f5",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "fafafa",
+			"lower_id": 58,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 39200093,
+			"exp": 10000000
+		},
+		"total_parameter": 924770,
+		"gvg_point": 36,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 2, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [2, 15], 3, [1, 5], 4, [1, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 120025852,
+		"user_name": "KakegawaFc",
+		"user_rank": 144,
+		"team_name": "Kakegawa",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "040404",
+			"upper_id": 27,
+			"upper_color": "fafafa",
+			"middle_id": 44,
+			"middle_color": "fafafa",
+			"lower_id": 51,
+			"lower_color": "ff0000",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100272,
+			"exp": 10000000
+		},
+		"total_parameter": 917450,
+		"gvg_point": 64,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [1, 3, 3],
+		"gvg_point_summary": [1, [1, 30], 2, [2, 15], 3, [0, 5], 4, [2, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 122203092,
+		"user_name": "EnsTRan",
+		"user_rank": 181,
+		"team_name": "FC.Cenabet",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 8,
+			"background_color": "ff0000",
+			"upper_id": 30,
+			"upper_color": "00bfff",
+			"middle_id": 33,
+			"middle_color": "00bfff",
+			"lower_id": 60,
+			"lower_color": "00bfff",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 12300244,
+			"exp": 10000000
+		},
+		"total_parameter": 825800,
+		"gvg_point": 0,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 138337798,
+		"user_name": "Igor",
+		"user_rank": 137,
+		"team_name": "eStars",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "0000ff",
+			"upper_id": 22,
+			"upper_color": "ffff00",
+			"middle_id": 38,
+			"middle_color": "ff0000",
+			"lower_id": 51,
+			"lower_color": "ffff00",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 60600013,
+			"exp": 10000000
+		},
+		"total_parameter": 914640,
+		"gvg_point": 63,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [3, 1, 3],
+		"gvg_point_summary": [1, [1, 30], 2, [2, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 145040451,
+		"user_name": "Panpa",
+		"user_rank": 144,
+		"team_name": "REBACK",
+		"badge_id": 9012016,
+		"emblem": {
+			"background_id": 13,
+			"background_color": "fafafa",
+			"upper_id": 23,
+			"upper_color": "ffdc00",
+			"middle_id": 44,
+			"middle_color": "ffdc00",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 1100212,
+			"exp": 10000000
+		},
+		"total_parameter": 871973,
+		"gvg_point": 0,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 207301496,
+		"user_name": "EnsTRAN",
+		"user_rank": 155,
+		"team_name": "EnsTRAN",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "fffacd",
+			"upper_id": 23,
+			"upper_color": "ff0000",
+			"middle_id": 46,
+			"middle_color": "ffff00",
+			"lower_id": 63,
+			"lower_color": "ff0000",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 82200012,
+			"exp": 10000000
+		},
+		"total_parameter": 896915,
+		"gvg_point": 0,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 240732986,
+		"user_name": "FC.Erhan",
+		"user_rank": 165,
+		"team_name": "Erhan",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 15,
+			"background_color": "dc143c",
+			"upper_id": 27,
+			"upper_color": "dc143c",
+			"middle_id": 46,
+			"middle_color": "808080",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 20500152,
+			"exp": 10000000
+		},
+		"total_parameter": 937719,
+		"gvg_point": 35,
+		"life": 1,
+		"is_matchable": true,
+		"gvg_results": [2, 3, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [2, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 251458428,
+		"user_name": "Giang h\u00ed",
+		"user_rank": 138,
+		"team_name": "Happy FC",
+		"badge_id": 8011001,
+		"emblem": {
+			"background_id": 13,
+			"background_color": "fafafa",
+			"upper_id": 22,
+			"upper_color": "fff352",
+			"middle_id": 46,
+			"middle_color": "1e90ff",
+			"lower_id": 63,
+			"lower_color": "1e90ff",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 40300013,
+			"exp": 10000000
+		},
+		"total_parameter": 837095,
+		"gvg_point": 0,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 256968702,
+		"user_name": "Nygma",
+		"user_rank": 111,
+		"team_name": "GS",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 12,
+			"background_color": "ffdc00",
+			"upper_id": 30,
+			"upper_color": "ff0000",
+			"middle_id": 36,
+			"middle_color": "dc143c",
+			"lower_id": 51,
+			"lower_color": "dc143c",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100252,
+			"exp": 10000000
+		},
+		"total_parameter": 884869,
+		"gvg_point": 0,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 274309768,
+		"user_name": "Andre",
+		"user_rank": 93,
+		"team_name": "\u4e00\u77ac\u5343\u6483",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 12,
+			"background_color": "dc143c",
+			"upper_id": 30,
+			"upper_color": "f0e68c",
+			"middle_id": 45,
+			"middle_color": "f0e68c",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 27500013,
+			"exp": 10000000
+		},
+		"total_parameter": 919016,
+		"gvg_point": 63,
+		"life": 1,
+		"is_matchable": true,
+		"gvg_results": [3, 3, 1],
+		"gvg_point_summary": [1, [1, 30], 2, [2, 15], 3, [0, 5], 4, [1, 1], 5, [1, 1], 6, [1, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 330508938,
+		"user_name": "Sakamoto",
+		"user_rank": 109,
+		"team_name": "B----o>",
+		"badge_id": 2119107,
+		"emblem": {
+			"background_id": 8,
+			"background_color": "dcdcdc",
+			"upper_id": 23,
+			"upper_color": "1e90ff",
+			"middle_id": 44,
+			"middle_color": "1e90ff",
+			"lower_id": 62,
+			"lower_color": "1e90ff",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 4200242,
+			"exp": 10000000
+		},
+		"total_parameter": 827710,
+		"gvg_point": 0,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 333520056,
+		"user_name": "Drago",
+		"user_rank": 81,
+		"team_name": "UltrAslan",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "9370db",
+			"upper_id": 26,
+			"upper_color": "1e90ff",
+			"middle_id": 45,
+			"middle_color": "1e90ff",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 19700013,
+			"exp": 10000000
+		},
+		"total_parameter": 936148,
+		"gvg_point": 87,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [3, 1, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [5, 1], 5, [5, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 425144577,
+		"user_name": "Mimosayu",
+		"user_rank": 200,
+		"team_name": "ONCE\u3002TWICE",
+		"badge_id": 9011016,
+		"emblem": {
+			"background_id": 9,
+			"background_color": "00bfff",
+			"upper_id": 26,
+			"upper_color": "ffb6c1",
+			"middle_id": 47,
+			"middle_color": "ffb6c1",
+			"lower_id": 61,
+			"lower_color": "ffb6c1",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 901289,
+		"gvg_point": 0,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 563008578,
+		"user_name": "FC.BARCA",
+		"user_rank": 102,
+		"team_name": "barcelona",
+		"badge_id": 2,
+		"emblem": {
+			"background_id": 6,
+			"background_color": "fafafa",
+			"upper_id": 22,
+			"upper_color": "ff0000",
+			"middle_id": 38,
+			"middle_color": "fafafa",
+			"lower_id": 51,
+			"lower_color": "ff0000",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 20700202,
+			"exp": 10000000
+		},
+		"total_parameter": 938206,
+		"gvg_point": 0,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 571135652,
+		"user_name": "Sakamato",
+		"user_rank": 111,
+		"team_name": "FC ReBack",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "9370db",
+			"upper_id": 26,
+			"upper_color": "1e90ff",
+			"middle_id": 45,
+			"middle_color": "1e90ff",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 38600052,
+			"exp": 10000000
+		},
+		"total_parameter": 899159,
+		"gvg_point": 0,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 591595392,
+		"user_name": "guts",
+		"user_rank": 184,
+		"team_name": "FC.berserk",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 5,
+			"background_color": "f5f5f5",
+			"upper_id": 31,
+			"upper_color": "c0c0c0",
+			"middle_id": 36,
+			"middle_color": "040404",
+			"lower_id": null,
+			"lower_color": null,
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 19100132,
+			"exp": 10000000
+		},
+		"total_parameter": 900128,
+		"gvg_point": 35,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [2, 3, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [2, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 629812875,
+		"user_name": "Islem",
+		"user_rank": 94,
+		"team_name": "brancos",
+		"badge_id": 2,
+		"emblem": {
+			"background_id": 4,
+			"background_color": "fafafa",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "0000ff",
+			"lower_id": 54,
+			"lower_color": "fff352",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13800092,
+			"exp": 10000000
+		},
+		"total_parameter": 865567,
+		"gvg_point": 45,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [3, 3, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [3, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 652156250,
+		"user_name": "Reback",
+		"user_rank": 111,
+		"team_name": "FC.RB",
+		"badge_id": null,
+		"emblem": {
+			"background_id": 15,
+			"background_color": "040404",
+			"upper_id": 23,
+			"upper_color": "dc143c",
+			"middle_id": 48,
+			"middle_color": "ff0000",
+			"lower_id": 56,
+			"lower_color": "ff0000",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 20600102,
+			"exp": 10000000
+		},
+		"total_parameter": 876209,
+		"gvg_point": 35,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [3, 2, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [2, 15], 3, [1, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 677632664,
+		"user_name": "Gonzi/emre",
+		"user_rank": 141,
+		"team_name": "FC.EAGLE",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 6,
+			"background_color": "040404",
+			"upper_id": null,
+			"upper_color": null,
+			"middle_id": 38,
+			"middle_color": "ffffe0",
+			"lower_id": 62,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13700192,
+			"exp": 10000000
+		},
+		"total_parameter": 907245,
+		"gvg_point": 99,
+		"life": 2,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 1],
+		"gvg_point_summary": [1, [3, 30], 2, [0, 15], 3, [0, 5], 4, [3, 1], 5, [3, 1], 6, [3, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 778739874,
+		"user_name": "Lafarga",
+		"user_rank": 134,
+		"team_name": "Lafarga",
+		"badge_id": 2119101,
+		"emblem": {
+			"background_id": 5,
+			"background_color": "dc143c",
+			"upper_id": 30,
+			"upper_color": "ffffe0",
+			"middle_id": 39,
+			"middle_color": "fafafa",
+			"lower_id": 60,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 929782,
+		"gvg_point": 81,
+		"life": 1,
+		"is_matchable": true,
+		"gvg_results": [1, 1, 3],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [2, 1], 5, [2, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 808035835,
+		"user_name": "Arkhannen",
+		"user_rank": 210,
+		"team_name": "FC.Haj\u0131m",
+		"badge_id": 2119104,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "0000cd",
+			"upper_id": 20,
+			"upper_color": "00008b",
+			"middle_id": 41,
+			"middle_color": "040404",
+			"lower_id": 52,
+			"lower_color": "0000cd",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 28100143,
+			"exp": 10000000
+		},
+		"total_parameter": 913752,
+		"gvg_point": 84,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 1, 1],
+		"gvg_point_summary": [1, [2, 30], 2, [1, 15], 3, [0, 5], 4, [4, 1], 5, [3, 1], 6, [2, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 842562045,
+		"user_name": "Yalarm\u0131s\u0131n",
+		"user_rank": 107,
+		"team_name": "Yala be",
+		"badge_id": 2,
+		"emblem": {
+			"background_id": 11,
+			"background_color": "c0c0c0",
+			"upper_id": 32,
+			"upper_color": null,
+			"middle_id": 44,
+			"middle_color": "fafafa",
+			"lower_id": 49,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 13100242,
+			"exp": 10000000
+		},
+		"total_parameter": 813115,
+		"gvg_point": 0,
+		"life": 0,
+		"is_matchable": false,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 853780703,
+		"user_name": "Didi Mango",
+		"user_rank": 131,
+		"team_name": "Didi Mango",
+		"badge_id": 1,
+		"emblem": {
+			"background_id": 1,
+			"background_color": "0000ff",
+			"upper_id": 18,
+			"upper_color": null,
+			"middle_id": 35,
+			"middle_color": "fafafa",
+			"lower_id": 62,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 10900063,
+			"exp": 10000000
+		},
+		"total_parameter": 848027,
+		"gvg_point": 45,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [3, 3, 3],
+		"gvg_point_summary": [1, [0, 30], 2, [3, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}, {
+		"is_dummy": false,
+		"user_id": 984492542,
+		"user_name": "Crono",
+		"user_rank": 170,
+		"team_name": "FOXHOUND",
+		"badge_id": 2119103,
+		"emblem": {
+			"background_id": 11,
+			"background_color": "0000ff",
+			"upper_id": 23,
+			"upper_color": "fafafa",
+			"middle_id": 38,
+			"middle_color": "fafafa",
+			"lower_id": 62,
+			"lower_color": "fafafa",
+			"emblem_set_id": null
+		},
+		"captain_card": {
+			"master_id": 38800173,
+			"exp": 10000000
+		},
+		"total_parameter": 925042,
+		"gvg_point": 0,
+		"life": 3,
+		"is_matchable": true,
+		"gvg_results": [4, 4, 4],
+		"gvg_point_summary": [1, [0, 30], 2, [0, 15], 3, [0, 5], 4, [0, 1], 5, [0, 1], 6, [0, 1]]
+	}],
+	"match_logs": [{
+		"challenge_user_id": 119664768,
+		"challenge_team_name": "newteam",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589862102
+	}, {
+		"challenge_user_id": 361334851,
+		"challenge_team_name": "BuffalooO ",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 9,
+		"result": 2,
+		"end_time": 1589861549
+	}, {
+		"challenge_user_id": 793438761,
+		"challenge_team_name": "Dragons",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 8,
+		"result": 2,
+		"end_time": 1589861313
+	}, {
+		"challenge_user_id": 939010663,
+		"challenge_team_name": "FC.Delta",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 2,
+		"result": 2,
+		"end_time": 1589861009
+	}, {
+		"challenge_user_id": 321630616,
+		"challenge_team_name": "Jean Fonce",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 7,
+		"result": 2,
+		"end_time": 1589859691
+	}, {
+		"challenge_user_id": 358960356,
+		"challenge_team_name": "Seigaku",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 10,
+		"result": 2,
+		"end_time": 1589853119
+	}, {
+		"challenge_user_id": 952038547,
+		"challenge_team_name": "NEW TEAM",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Kakegawa",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589847749
+	}, {
+		"challenge_user_id": 610976173,
+		"challenge_team_name": "Chelsea69",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC ReBack",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589844718
+	}, {
+		"challenge_user_id": 792211909,
+		"challenge_team_name": "RC Exilor",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC.EAGLE",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589841843
+	}, {
+		"challenge_user_id": 792211909,
+		"challenge_team_name": "RC Exilor",
+		"challenge_team_score": 1,
+		"fightin_team_name": "EnsTRAN",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589841629
+	}, {
+		"challenge_user_id": 781966103,
+		"challenge_team_name": "Basic Team",
+		"challenge_team_score": 1,
+		"fightin_team_name": "ONCE\u3002TWICE",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589841007
+	}, {
+		"challenge_user_id": 337233130,
+		"challenge_team_name": "Malcou",
+		"challenge_team_score": 1,
+		"fightin_team_name": "GS",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589839969
+	}, {
+		"challenge_user_id": 337233130,
+		"challenge_team_name": "Malcou",
+		"challenge_team_score": 2,
+		"fightin_team_name": "ONCE\u3002TWICE",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589839805
+	}, {
+		"challenge_user_id": 337233130,
+		"challenge_team_name": "Malcou",
+		"challenge_team_score": 0,
+		"fightin_team_name": "REBACK",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589839646
+	}, {
+		"challenge_user_id": 718822219,
+		"challenge_team_name": "oOShadowOo",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Erhan",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589839323
+	}, {
+		"challenge_user_id": 718822219,
+		"challenge_team_name": "oOShadowOo",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Erhan",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589839178
+	}, {
+		"challenge_user_id": 718822219,
+		"challenge_team_name": "oOShadowOo",
+		"challenge_team_score": 3,
+		"fightin_team_name": "Erhan",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589839059
+	}, {
+		"challenge_user_id": 615224546,
+		"challenge_team_name": "FC.World",
+		"challenge_team_score": 1,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589838873
+	}, {
+		"challenge_user_id": 747033863,
+		"challenge_team_name": "STFC",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC.EAGLE",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589838207
+	}, {
+		"challenge_user_id": 747033863,
+		"challenge_team_name": "STFC",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC.berserk",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589838075
+	}, {
+		"challenge_user_id": 747033863,
+		"challenge_team_name": "STFC",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC.EAGLE",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589837933
+	}, {
+		"challenge_user_id": 204189281,
+		"challenge_team_name": "Actarus 62",
+		"challenge_team_score": 0,
+		"fightin_team_name": "\u4e00\u77ac\u5343\u6483",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589837703
+	}, {
+		"challenge_user_id": 204189281,
+		"challenge_team_name": "Actarus 62",
+		"challenge_team_score": 4,
+		"fightin_team_name": "\u4e00\u77ac\u5343\u6483",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589837574
+	}, {
+		"challenge_user_id": 204189281,
+		"challenge_team_name": "Actarus 62",
+		"challenge_team_score": 3,
+		"fightin_team_name": "\u4e00\u77ac\u5343\u6483",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589837438
+	}, {
+		"challenge_user_id": 120025852,
+		"challenge_team_name": "Kakegawa",
+		"challenge_team_score": 0,
+		"fightin_team_name": "mugiwara",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589831975
+	}, {
+		"challenge_user_id": 120025852,
+		"challenge_team_name": "Kakegawa",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Paname",
+		"fightin_team_score": 1,
+		"result": 3,
+		"end_time": 1589831814
+	}, {
+		"challenge_user_id": 120025852,
+		"challenge_team_name": "Kakegawa",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589831533
+	}, {
+		"challenge_user_id": 808035835,
+		"challenge_team_name": "FC.Haj\u0131m",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Dragons",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589831176
+	}, {
+		"challenge_user_id": 808035835,
+		"challenge_team_name": "FC.Haj\u0131m",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Dragons",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589831016
+	}, {
+		"challenge_user_id": 808035835,
+		"challenge_team_name": "FC.Haj\u0131m",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Dragons",
+		"fightin_team_score": 1,
+		"result": 3,
+		"end_time": 1589830861
+	}, {
+		"challenge_user_id": 677632664,
+		"challenge_team_name": "FC.EAGLE",
+		"challenge_team_score": 1,
+		"fightin_team_name": "BV 09",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589830552
+	}, {
+		"challenge_user_id": 677632664,
+		"challenge_team_name": "FC.EAGLE",
+		"challenge_team_score": 1,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589830419
+	}, {
+		"challenge_user_id": 677632664,
+		"challenge_team_name": "FC.EAGLE",
+		"challenge_team_score": 1,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589830253
+	}, {
+		"challenge_user_id": 652156250,
+		"challenge_team_name": "FC.RB",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC.World",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589829171
+	}, {
+		"challenge_user_id": 652156250,
+		"challenge_team_name": "FC.RB",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589828961
+	}, {
+		"challenge_user_id": 652156250,
+		"challenge_team_name": "FC.RB",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589828694
+	}, {
+		"challenge_user_id": 333520056,
+		"challenge_team_name": "UltrAslan",
+		"challenge_team_score": 2,
+		"fightin_team_name": "BV 09",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589828063
+	}, {
+		"challenge_user_id": 333520056,
+		"challenge_team_name": "UltrAslan",
+		"challenge_team_score": 3,
+		"fightin_team_name": "BV 09",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589827936
+	}, {
+		"challenge_user_id": 333520056,
+		"challenge_team_name": "UltrAslan",
+		"challenge_team_score": 0,
+		"fightin_team_name": "STFC",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589827753
+	}, {
+		"challenge_user_id": 745731956,
+		"challenge_team_name": "\u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Lafarga",
+		"fightin_team_score": 1,
+		"result": 1,
+		"end_time": 1589826891
+	}, {
+		"challenge_user_id": 745731956,
+		"challenge_team_name": "\u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Lafarga",
+		"fightin_team_score": 1,
+		"result": 1,
+		"end_time": 1589826773
+	}, {
+		"challenge_user_id": 248026182,
+		"challenge_team_name": "FC.SHS",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC.berserk",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589826212
+	}, {
+		"challenge_user_id": 248026182,
+		"challenge_team_name": "FC.SHS",
+		"challenge_team_score": 2,
+		"fightin_team_name": "FC.berserk",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589826065
+	}, {
+		"challenge_user_id": 248026182,
+		"challenge_team_name": "FC.SHS",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Didi Mango",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589825875
+	}, {
+		"challenge_user_id": 745731956,
+		"challenge_team_name": "\u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+		"challenge_team_score": 1,
+		"fightin_team_name": "ONCE\u3002TWICE",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589824734
+	}, {
+		"challenge_user_id": 761211694,
+		"challenge_team_name": "mugiwara",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC.RB",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589821642
+	}, {
+		"challenge_user_id": 761211694,
+		"challenge_team_name": "mugiwara",
+		"challenge_team_score": 0,
+		"fightin_team_name": "UltrAslan",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589821503
+	}, {
+		"challenge_user_id": 761211694,
+		"challenge_team_name": "mugiwara",
+		"challenge_team_score": 0,
+		"fightin_team_name": "barcelona",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589821326
+	}, {
+		"challenge_user_id": 692739693,
+		"challenge_team_name": "FC.Dragon",
+		"challenge_team_score": 0,
+		"fightin_team_name": "EnsTRAN",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589821261
+	}, {
+		"challenge_user_id": 692739693,
+		"challenge_team_name": "FC.Dragon",
+		"challenge_team_score": 1,
+		"fightin_team_name": "EnsTRAN",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589821118
+	}, {
+		"challenge_user_id": 692739693,
+		"challenge_team_name": "FC.Dragon",
+		"challenge_team_score": 3,
+		"fightin_team_name": "EnsTRAN",
+		"fightin_team_score": 2,
+		"result": 1,
+		"end_time": 1589820423
+	}, {
+		"challenge_user_id": 629812875,
+		"challenge_team_name": "brancos",
+		"challenge_team_score": 0,
+		"fightin_team_name": "BV 09",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589819986
+	}, {
+		"challenge_user_id": 629812875,
+		"challenge_team_name": "brancos",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589819536
+	}, {
+		"challenge_user_id": 629812875,
+		"challenge_team_name": "brancos",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589819233
+	}, {
+		"challenge_user_id": 826372671,
+		"challenge_team_name": "Freedom",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Didi Mango",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589817542
+	}, {
+		"challenge_user_id": 826372671,
+		"challenge_team_name": "Freedom",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589817442
+	}, {
+		"challenge_user_id": 826372671,
+		"challenge_team_name": "Freedom",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC.RB",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589817330
+	}, {
+		"challenge_user_id": 570342042,
+		"challenge_team_name": "BV 09",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 3,
+		"result": 2,
+		"end_time": 1589817130
+	}, {
+		"challenge_user_id": 570342042,
+		"challenge_team_name": "BV 09",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 1,
+		"result": 3,
+		"end_time": 1589816993
+	}, {
+		"challenge_user_id": 570342042,
+		"challenge_team_name": "BV 09",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589816871
+	}, {
+		"challenge_user_id": 110253102,
+		"challenge_team_name": "Devil Bats",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589816684
+	}, {
+		"challenge_user_id": 110253102,
+		"challenge_team_name": "Devil Bats",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589816495
+	}, {
+		"challenge_user_id": 110253102,
+		"challenge_team_name": "Devil Bats",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Happy FC",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589816344
+	}, {
+		"challenge_user_id": 853780703,
+		"challenge_team_name": "Didi Mango",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589814028
+	}, {
+		"challenge_user_id": 853780703,
+		"challenge_team_name": "Didi Mango",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589813890
+	}, {
+		"challenge_user_id": 853780703,
+		"challenge_team_name": "Didi Mango",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589812654
+	}, {
+		"challenge_user_id": 274309768,
+		"challenge_team_name": "\u4e00\u77ac\u5343\u6483",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Paname",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589805996
+	}, {
+		"challenge_user_id": 274309768,
+		"challenge_team_name": "\u4e00\u77ac\u5343\u6483",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Malcou",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589805823
+	}, {
+		"challenge_user_id": 274309768,
+		"challenge_team_name": "\u4e00\u77ac\u5343\u6483",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Malcou",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589805637
+	}, {
+		"challenge_user_id": 240732986,
+		"challenge_team_name": "Erhan",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589805322
+	}, {
+		"challenge_user_id": 240732986,
+		"challenge_team_name": "Erhan",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589805054
+	}, {
+		"challenge_user_id": 240732986,
+		"challenge_team_name": "Erhan",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589804854
+	}, {
+		"challenge_user_id": 591595392,
+		"challenge_team_name": "FC.berserk",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Paname",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589803489
+	}, {
+		"challenge_user_id": 591595392,
+		"challenge_team_name": "FC.berserk",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589803356
+	}, {
+		"challenge_user_id": 591595392,
+		"challenge_team_name": "FC.berserk",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589803241
+	}, {
+		"challenge_user_id": 416792076,
+		"challenge_team_name": "FC.SouD",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC.Cenabet",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589802085
+	}, {
+		"challenge_user_id": 416792076,
+		"challenge_team_name": "FC.SouD",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC.Cenabet",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589801953
+	}, {
+		"challenge_user_id": 275866897,
+		"challenge_team_name": "Paname",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Yala be",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589800562
+	}, {
+		"challenge_user_id": 275866897,
+		"challenge_team_name": "Paname",
+		"challenge_team_score": 2,
+		"fightin_team_name": "Yala be",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589800318
+	}, {
+		"challenge_user_id": 275866897,
+		"challenge_team_name": "Paname",
+		"challenge_team_score": 3,
+		"fightin_team_name": "Yala be",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589800122
+	}, {
+		"challenge_user_id": 421590829,
+		"challenge_team_name": "FC Joinard",
+		"challenge_team_score": 0,
+		"fightin_team_name": "FC.Cenabet",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589798771
+	}, {
+		"challenge_user_id": 421590829,
+		"challenge_team_name": "FC Joinard",
+		"challenge_team_score": 2,
+		"fightin_team_name": "FC.Cenabet",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589798636
+	}, {
+		"challenge_user_id": 421590829,
+		"challenge_team_name": "FC Joinard",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC.Cenabet",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589798494
+	}, {
+		"challenge_user_id": 993566897,
+		"challenge_team_name": "FC Nespoli",
+		"challenge_team_score": 1,
+		"fightin_team_name": "UltrAslan",
+		"fightin_team_score": 1,
+		"result": 3,
+		"end_time": 1589797845
+	}, {
+		"challenge_user_id": 993566897,
+		"challenge_team_name": "FC Nespoli",
+		"challenge_team_score": 2,
+		"fightin_team_name": "UltrAslan",
+		"fightin_team_score": 1,
+		"result": 1,
+		"end_time": 1589797724
+	}, {
+		"challenge_user_id": 993566897,
+		"challenge_team_name": "FC Nespoli",
+		"challenge_team_score": 0,
+		"fightin_team_name": "UltrAslan",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589797593
+	}, {
+		"challenge_user_id": 962466405,
+		"challenge_team_name": "Redteam",
+		"challenge_team_score": 3,
+		"fightin_team_name": "eStars",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589794420
+	}, {
+		"challenge_user_id": 962466405,
+		"challenge_team_name": "Redteam",
+		"challenge_team_score": 1,
+		"fightin_team_name": "eStars",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589794304
+	}, {
+		"challenge_user_id": 962466405,
+		"challenge_team_name": "Redteam",
+		"challenge_team_score": 1,
+		"fightin_team_name": "eStars",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589794199
+	}, {
+		"challenge_user_id": 212932050,
+		"challenge_team_name": "FC Nemo",
+		"challenge_team_score": 2,
+		"fightin_team_name": "brancos",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589791667
+	}, {
+		"challenge_user_id": 212932050,
+		"challenge_team_name": "FC Nemo",
+		"challenge_team_score": 1,
+		"fightin_team_name": "brancos",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589791417
+	}, {
+		"challenge_user_id": 212932050,
+		"challenge_team_name": "FC Nemo",
+		"challenge_team_score": 1,
+		"fightin_team_name": "brancos",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589791190
+	}, {
+		"challenge_user_id": 119649757,
+		"challenge_team_name": "Icicle",
+		"challenge_team_score": 1,
+		"fightin_team_name": "FC Nemo",
+		"fightin_team_score": 1,
+		"result": 3,
+		"end_time": 1589791001
+	}, {
+		"challenge_user_id": 138337798,
+		"challenge_team_name": "eStars",
+		"challenge_team_score": 0,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589789194
+	}, {
+		"challenge_user_id": 138337798,
+		"challenge_team_name": "eStars",
+		"challenge_team_score": 1,
+		"fightin_team_name": "RC Exilor",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589789028
+	}, {
+		"challenge_user_id": 138337798,
+		"challenge_team_name": "eStars",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589788857
+	}, {
+		"challenge_user_id": 119649757,
+		"challenge_team_name": "Icicle",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 1,
+		"result": 2,
+		"end_time": 1589787629
+	}, {
+		"challenge_user_id": 119649757,
+		"challenge_team_name": "Icicle",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Paname",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589787367
+	}, {
+		"challenge_user_id": 778739874,
+		"challenge_team_name": "Lafarga",
+		"challenge_team_score": 0,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589787021
+	}, {
+		"challenge_user_id": 416792076,
+		"challenge_team_name": "FC.SouD",
+		"challenge_team_score": 1,
+		"fightin_team_name": "B----o>",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589786892
+	}, {
+		"challenge_user_id": 778739874,
+		"challenge_team_name": "Lafarga",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589786865
+	}, {
+		"challenge_user_id": 778739874,
+		"challenge_team_name": "Lafarga",
+		"challenge_team_score": 1,
+		"fightin_team_name": "Redteam",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589786561
+	}, {
+		"challenge_user_id": 526716604,
+		"challenge_team_name": "RCL",
+		"challenge_team_score": 3,
+		"fightin_team_name": "B----o>",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589785937
+	}, {
+		"challenge_user_id": 526716604,
+		"challenge_team_name": "RCL",
+		"challenge_team_score": 0,
+		"fightin_team_name": "EnsTRAN",
+		"fightin_team_score": 0,
+		"result": 3,
+		"end_time": 1589785799
+	}, {
+		"challenge_user_id": 526716604,
+		"challenge_team_name": "RCL",
+		"challenge_team_score": 2,
+		"fightin_team_name": "B----o>",
+		"fightin_team_score": 0,
+		"result": 1,
+		"end_time": 1589785560
+	}],
+	"last_match_result": {
+		"wave_id": 10,
+		"owner_info": {
+			"is_dummy": false,
+			"id": 3656,
+			"name": "Asylum.Fr",
+			"rank": 265,
+			"captain_card_master_id": 13100242,
+			"winning_point": 21,
+			"win_count": 7,
+			"lose_count": 2,
+			"draw_count": 0,
+			"total_guild_point": 9614,
+			"guild_point_a_day": 1732,
+			"active_member_count_a_day": 29,
+			"member_count": 29,
+			"win_match_num_a_day": 28,
+			"lose_match_num_a_day": 8,
+			"draw_match_num_a_day": 49,
+			"total_match_num_a_day": 85
+		},
+		"opponent_info": {
+			"is_dummy": false,
+			"id": 24913,
+			"name": "LatinosOP",
+			"rank": 266,
+			"captain_card_master_id": 12300023,
+			"winning_point": 21,
+			"win_count": 7,
+			"lose_count": 2,
+			"draw_count": 0,
+			"total_guild_point": 9592,
+			"guild_point_a_day": 1983,
+			"active_member_count_a_day": 29,
+			"member_count": 30,
+			"win_match_num_a_day": 42,
+			"lose_match_num_a_day": 7,
+			"draw_match_num_a_day": 35,
+			"total_match_num_a_day": 84
+		},
+		"abstention_state": 0,
+		"current_obtained_winning_point": 0,
+		"current_obtained_gvg_point": 1732
+	},
+	"final_guild_rank": null,
+	"daily_reward": null
+}, "6a030dca7999de20b25973bd0a9c92f9b7b97198"]
